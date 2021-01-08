@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 538320243
+    locked: 0
+  - name: NPCs
+    uniqueID: 1243553533
+    locked: 0
+  - name: Weapons
+    uniqueID: 2328640469
+    locked: 0
+  - name: Env Objects
+    uniqueID: 2795920039
+    locked: 0
+  - name: Tiles
+    uniqueID: 2668437331
+    locked: 0
